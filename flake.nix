@@ -25,6 +25,8 @@
             # Packages for project
             python311Packages.numpy
             python311Packages.pandas
+            python311Packages.openpyxl
+            python311Packages.odfpy
           ];
 
           shellHook = ''
